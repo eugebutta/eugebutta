@@ -8,7 +8,7 @@ Skills:  REACT / JS / HTML / CSS / REACT NATIVE/ TIPSCRYPT
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/LeandroCadena/Esthetic-App) ---> Check Me Last Project 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroCadena/Esthetic-App) ---> Check Me Last Project 
 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://github.com/eugebutta/)  ---> Check My LinkdeIn
   
