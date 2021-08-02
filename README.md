@@ -4,7 +4,7 @@ I am full-stack developer graduated from Henry and also graduated as high school
 
 
 
-Skills:  REACT / JS / HTML / CSS / REACT NATIVE/ TIPSCRYPT
+Skills:  REACT JS / NEXT JS / JS / HTML / CSS / REACT NATIVE / TIPESCRYPT / NODE JS / EXPRESS / MONGO / REDUX / SASS / FIREBASE / SQL 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeandroCadena/Esthetic-App) 
 <h4> Check Me Last Project </h4>
