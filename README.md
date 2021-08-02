@@ -1,4 +1,4 @@
-### Hi there �![euge](https://user-images.githubusercontent.com/78935400/127877648-590cfdf1-310b-46f9-b92b-2619fa36f60a.png width="48")
+### Hi there �![euge](https://user-images.githubusercontent.com/78935400/127877648-590cfdf1-310b-46f9-b92b-2619fa36f60a.png){:height="36px" width="36px"}
 
 
 <!--
